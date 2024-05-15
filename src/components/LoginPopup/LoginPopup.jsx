@@ -30,7 +30,7 @@ const [currState , setCurrState ] = useState("Login")
         :<p>Already have an account? <span onClick={() => setCurrState("Login")}>Login here</span></p> }
 
 
-       </form>
+       </form>ss
     </div>
   )
 }
